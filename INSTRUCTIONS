@@ -1,0 +1,21 @@
+======= INSTRUCTIONS =======
+
+Plug the camera module 3 into the bigger end of the camera ribbon
+
+Plug the smaller side of the ribbon into the cammera slots on the raspberry pi 5
+
+Download raspberry pi imager: https://www.raspberrypi.com/software/
+
+Plug in 64GB micro SD card and chose the storage on the imager, raspberry pi as the system, and then FULL desktop for the OS 64 (under raspberry pi OS other) and click flash
+
+Plug in 5V 5A USB C power supply, keyboard and mouse
+
+plug in micro HDMI adapter into the pi and HDMI cable into the adapter and the other end into the monitor
+
+Complete on screen setup instrucions
+
+Follow instructions on these 2 sources:
+
+Primary Source: https://github.com/hailo-ai/hailo-rpi5-examples
+
+Secondary Source: https://www.youtube.com/watch?v=7mh77Nq51Ho (I recommend this one)
